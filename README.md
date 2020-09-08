@@ -9,12 +9,12 @@ This repository is provided as supplement for Cisco DevNet Create 2020 Virtual T
 
 ## Useful links: 
 
-[Adafruit CLUE Board](https://learn.adafruit.com/adafruit-clue/overview)
-[CircuitPython on CLUE](https://learn.adafruit.com/adafruit-clue/circuitpython)
-[CircuitPython CLUE Firmware Download](https://circuitpython.org/board/clue_nrf52840_express/)
-[CircuitPython Library](https://circuitpython.org/libraries)
-[Mu Editor](https://codewith.mu/)
-[Netmiko](https://pypi.org/project/netmiko/)
+- [Adafruit CLUE Board](https://learn.adafruit.com/adafruit-clue/overview)
+- [CircuitPython on CLUE](https://learn.adafruit.com/adafruit-clue/circuitpython)
+- [CircuitPython CLUE Firmware Download](https://circuitpython.org/board/clue_nrf52840_express/)
+- [CircuitPython Library](https://circuitpython.org/libraries)
+- [Mu Editor](https://codewith.mu/)
+- [Netmiko](https://pypi.org/project/netmiko/)
 
 ## Part 1: Overview of Adafruit CLUE Board
 
